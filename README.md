@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm @emmaviolet
+
+I'm currently working on the Special Projects Team at GitHub. I also have a cat called Hector.
 
 <!--
 **emmaviolet/emmaviolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
