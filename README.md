@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm @emmaviolet
 
-I'm currently working on the Special Projects Team at GitHub. 
+I'm currently working on the Communities Team at GitHub. 
 
 I also have a cat called Hector, and he is keen on naps.
 
