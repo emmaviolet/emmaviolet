@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm @emmaviolet
 
-I'm currently working on the Communities Team at GitHub. 
+I'm currently working on the Core Productivity Team at GitHub. 
 
-I also have a cat called Hector, and he is keen on naps.
+I also have a daughter called Cal, and she is keen on hats.
 
-![3827e734-dcee-403c-a0ff-b5ce0d69db92](https://user-images.githubusercontent.com/8298818/120681148-fd5e0a00-c492-11eb-887d-07444b3729b8.JPG)
+![Cal](https://github.com/emmaviolet/emmaviolet/assets/8298818/0cb37ac8-0258-4167-ab2e-68dbd8c1cacd)
 
 <!--
 **emmaviolet/emmaviolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
